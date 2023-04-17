@@ -80,9 +80,7 @@ Restart your computer and try again.
 
 
 Youtube Video :
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YYvORLE_yJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+[360 Degree Video](https://youtu.be/YYvORLE_yJ8)
 
 
 
